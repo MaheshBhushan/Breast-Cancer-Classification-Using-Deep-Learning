@@ -57,5 +57,5 @@ If you have any questions or suggestions, feel free to reach out to [mokoduri73@
 
 ## Results
 The deep learning model based on CNNs demonstrates a high level of accuracy and reliability in classifying breast cancer images. It contributes to the field of medical imaging by assisting in the early detection and diagnosis of breast cancer, potentially improving patient outcomes and treatment strategies.
-###Note that the given dataset is for reference only as we already predifed "datasets" module in the above repository. You can experiment it with given dataset if you want to.
+### Note that the given dataset is for reference only as we already predifed "datasets" module in the above repository. You can experiment it with given dataset if you want to.
 

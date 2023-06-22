@@ -28,8 +28,6 @@ This project focuses on the classification of breast cancer using deep learning 
 
 4. Run the code.
 
-## Results
-The XGBoost Regressor model achieves a high level of accuracy in predicting house prices. It provides valuable insights into the factors influencing house prices and can be used for real estate analysis and decision-making.
 ### Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -59,5 +57,5 @@ If you have any questions or suggestions, feel free to reach out to [mokoduri73@
 
 ## Results
 The deep learning model based on CNNs demonstrates a high level of accuracy and reliability in classifying breast cancer images. It contributes to the field of medical imaging by assisting in the early detection and diagnosis of breast cancer, potentially improving patient outcomes and treatment strategies.
-### Datasets used will be added Later.
+###Note that the given dataset is for reference only as we already predifed "datasets" module in the above repository. You can experiment it with given dataset if you want to.
 

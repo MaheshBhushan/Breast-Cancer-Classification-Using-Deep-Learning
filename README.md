@@ -1,4 +1,6 @@
 # Breast Cancer Classification using Deep Learning
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ## Description
 This project focuses on the classification of breast cancer using deep learning techniques, specifically convolutional neural networks (CNNs). The goal is to analyze medical images of breast tissue and accurately classify them as either benign or malignant, aiding in the early detection and diagnosis of breast cancer.
 ## Requirements
@@ -58,4 +60,3 @@ If you have any questions or suggestions, feel free to reach out to [mokoduri73@
 ## Results
 The deep learning model based on CNNs demonstrates a high level of accuracy and reliability in classifying breast cancer images. It contributes to the field of medical imaging by assisting in the early detection and diagnosis of breast cancer, potentially improving patient outcomes and treatment strategies.
 ### Note that the given dataset is for reference only as we already predifed "datasets" module in the above repository. You can experiment it with given dataset if you want to.
-
